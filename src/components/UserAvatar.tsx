@@ -8,7 +8,7 @@ interface UserAvatarProps {
 }
 
 const UserAvatar: React.FC<UserAvatarProps> = ({ 
-  letter = 'C', 
+  letter = 'U', 
   size = 'md',
   onClick
 }) => {
