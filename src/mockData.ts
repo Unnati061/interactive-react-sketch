@@ -1,4 +1,3 @@
-
 import { TripDetails, FlightDetails, Hotel, Activity } from './types';
 
 export const tripDetails: TripDetails = {
@@ -8,7 +7,7 @@ export const tripDetails: TripDetails = {
   duration: 8,
   travelers: 4,
   activities: 14,
-  coverImage: '/lovable-uploads/cfe16887-4f6a-4c4c-b438-efbe35a9b613.png'
+  coverImage: '/lovable-uploads/75537345-2702-43c7-b5a7-2d99493ec46c.png'
 };
 
 export const flightDetails: FlightDetails = {
