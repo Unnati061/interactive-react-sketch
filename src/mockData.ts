@@ -8,7 +8,7 @@ export const tripDetails: TripDetails = {
   duration: 8,
   travelers: 4,
   activities: 14,
-  coverImage: '/lovable-uploads/f2e7cc4e-2508-4e4a-9f69-305c76744e06.png'
+  coverImage: '/lovable-uploads/cfe16887-4f6a-4c4c-b438-efbe35a9b613.png'
 };
 
 export const flightDetails: FlightDetails = {

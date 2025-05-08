@@ -43,7 +43,7 @@ const HomeScreen: React.FC = () => {
       
       <div className="flex justify-between items-center mb-6">
         <div>
-          <h1 className="text-2xl font-bold">Hello Chhavi!</h1>
+          <h1 className="text-2xl font-bold">Hello Unnati!</h1>
           <p className="text-sm text-gray-400">Ready for the trip?</p>
         </div>
         <UserAvatar />
